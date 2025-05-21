@@ -1,4 +1,6 @@
-"""This module contains greeting functions."""  # <- module docstring
+"""This module contains greeting functions."""
+
+
 def hello():
     """Print a greeting."""
     print("hi")
